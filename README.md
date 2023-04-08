@@ -1,1 +1,1 @@
-This is a Ecommerce project builded with Next.js and Sanity
+This is a Ecommerce project built with Next.js and Sanity
